@@ -1,9 +1,5 @@
 
-<html>
-<head>
-    <meta charset="utf-8">
-    <title>JS Bin</title>
-</head>
+<html> 
 <body>
 <h1>Парадокс картошки</h1>
 <p>
